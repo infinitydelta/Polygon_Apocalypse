@@ -1,0 +1,12 @@
+Core game:
+	- Player control
+	- Enemy AI
+	- Combat - working damage
+	- UI
+	- Level design - compatible with AI
+	- Graphics?
+
+Items:
+	- Weapons & ammo
+	- Inventory system
+	- Survival items
